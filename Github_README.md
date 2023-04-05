@@ -1,4 +1,4 @@
-# What is git?
+# What is Git?
 
 Git is a distributed version control system that allows developers to keep track of changes made to their code over time. It was created by Linus Torvalds in 2005 as a replacement for the proprietary BitKeeper tool that he had been using to manage the Linux kernel codebase.
 
